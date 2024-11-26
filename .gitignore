@@ -2,3 +2,9 @@
 .Rhistory
 .RData
 .Ruserdata
+
+# Data spreadsheet to ignore
+Scripts/exampledata.csv
+
+# Data folder to ignore
+Data/
