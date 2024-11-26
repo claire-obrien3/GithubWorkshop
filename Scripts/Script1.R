@@ -5,3 +5,5 @@
 myvar <- 4 
 myvar2 <- 3
 myvar + myvar2
+
+myvar3 <- rnorm(1)
